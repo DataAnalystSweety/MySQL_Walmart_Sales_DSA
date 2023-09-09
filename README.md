@@ -56,7 +56,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 > 2. Create table and insert the data.
 > 3. Select columns with null values in them. There are no null values in our database as in creating the tables, we set **NOT NULL** for each field, hence null values are filtered out.
 
-2. **Feature Engineering:** This will help use generate some new columns from existing ones.
+2. **Data Mining:** This will help use generate some new columns from existing ones.
 
 > 1. Add a new column named `time_of_day` to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
 
@@ -73,7 +73,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 ### Generic Question
 
 1. How many unique cities does the data have?
-2. In which city is each branch?
+2. In which city the branch belongs?
 
 ### Product
 
