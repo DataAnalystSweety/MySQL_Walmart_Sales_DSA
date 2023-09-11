@@ -81,14 +81,13 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 2. What are the top 5 most selling product line?
 3. What is the most common payment method?
 4. What is the total revenue by month?
-5. What month had the largest COGS?
-6. What product line had the largest revenue?
-5. What is the city with the largest revenue?
-6. What product line had the largest VAT?
-7. Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
-8. Which branch sold more products than average product sold?
-9. What is the most common product line by gender?
-12. What is the average rating of each product line?
+5. What month had the highest COGS?
+6. What product line had the highest revenue?
+7. Which city had largest revenue?
+8. What product line had the highest VAT?
+9. Fetch each product line and add a column to those product line showing "Good" if its greater than average sales else "Bad".
+10. What is the most common product line by gender?
+11. What is the average rating of each product line?
 
 ### Sales
 
