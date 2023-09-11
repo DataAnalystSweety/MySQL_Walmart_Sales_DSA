@@ -78,8 +78,8 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 ### Product
 
 1. How many unique product lines does the data have?
-2. What is the most common payment method?
-3. What is the most selling product line?
+2. What are the top 5 most selling product line?
+3. What is the most common payment method?
 4. What is the total revenue by month?
 5. What month had the largest COGS?
 6. What product line had the largest revenue?
