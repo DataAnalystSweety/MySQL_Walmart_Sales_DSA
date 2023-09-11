@@ -21,14 +21,14 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 | city                    | The location of the branch              | VARCHAR(30)    |
 | customer_type           | The type of the customer                | VARCHAR(30)    |
 | gender                  | Gender of the customer making purchase  | VARCHAR(10)    |
-| product_line            | Product line of the product solf        | VARCHAR(100)   |
+| product_line            | Product line of the product self        | VARCHAR(100)   |
 | unit_price              | The price of each product               | DECIMAL(10, 2) |
-| quantity                | The amount of the product sold          | INT            |
-| VAT                 | The amount of tax on the purchase       | FLOAT(6, 4)    |
+| quantity                | The number of the product sold          | INT            |
+| VAT                     | The amount of tax on the purchase       | FLOAT(6, 4)    |
 | total                   | The total cost of the purchase          | DECIMAL(10, 2) |
 | date                    | The date on which the purchase was made | DATE           |
 | time                    | The time at which the purchase was made | TIMESTAMP      |
-| payment_method                 | The total amount paid                   | DECIMAL(10, 2) |
+| payment_method          | The total amount paid                   | DECIMAL(10, 2) |
 | cogs                    | Cost Of Goods sold                      | DECIMAL(10, 2) |
 | gross_margin_percentage | Gross margin percentage                 | FLOAT(11, 9)   |
 | gross_income            | Gross Income                            | DECIMAL(10, 2) |
@@ -73,7 +73,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 ### Generic Question
 
 1. How many unique cities does the data have?
-2. In which city the branch belongs?
+2. In which city the branches belongs?
 
 ### Product
 
