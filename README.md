@@ -100,9 +100,9 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 1. How many unique customer types does the data have?
 2. How many unique payment methods does the data have?
-3. What is the most common customer type?
-4. Which customer type buys the most?
-5. What is the gender of most of the customers?
+3. Which customer type gave the highest sales?
+4. Which gender gave the highest sales?
+5. What is the customer distribution by gender per branch?
 6. What is the gender distribution per branch?
 7. Which time of the day do customers give most ratings?
 8. Which time of the day do customers give most ratings per branch?
